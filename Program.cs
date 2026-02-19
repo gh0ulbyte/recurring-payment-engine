@@ -39,10 +39,11 @@ app.MapControllerRoute(
     defaults: new { controller = "Test", action = "ProcesarAdhesion" }
 );
 
-Console.WriteLine("🚀 Iniciando servidor de Débitos Automáticos...");
-Console.WriteLine("📁 Directorio de trabajo: " + Directory.GetCurrentDirectory());
-Console.WriteLine("✅ Servidor iniciado correctamente");
-Console.WriteLine("🌐 Navega a: http://localhost:5000/Test");
-Console.WriteLine("⏹️  Presiona Ctrl+C para detener el servidor");
+Console.WriteLine(" Iniciando servidor de Débitos Automáticos...");
+Console.WriteLine(" Directorio de trabajo: " + Directory.GetCurrentDirectory());
+Console.WriteLine(" Servidor iniciado correctamente");
+Console.WriteLine(" Navega a: http://localhost:5000/Test");
+Console.WriteLine("  Presiona Ctrl+C para detener el servidor");
 
 app.Run();
+
