@@ -20,3 +20,7 @@ Logging and test environments
 Built with ASP.NET Core (.NET 8) using MVC and Razor, with optional SQL Server persistence.
 
 The project demonstrates real-world payment processing architecture, external API integration, webhook management, and backend transaction handling.
+
+
+⚠️ All sensitive information (credentials, client identifiers, database names, and production endpoints) has been removed or replaced with placeholders for security reasons.
+
