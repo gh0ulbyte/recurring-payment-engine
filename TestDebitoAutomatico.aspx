@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>Test Débito Automático - PayperTIC</title>
+    <title>Test Débito Automático </title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <style>
@@ -112,7 +112,7 @@
     <form id="form1" runat="server">
         <div class="container">
             <div class="header">
-                <h1>Test Débito Automático - PayperTIC</h1>
+                <h1>Test Débito Automático </h1>
                 <p>Prueba de funcionalidades de débito automático según documentación oficial</p>
             </div>
 
@@ -178,3 +178,4 @@
     </form>
 </body>
 </html>
+
